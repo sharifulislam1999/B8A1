@@ -6,7 +6,7 @@ This assignment focuses on solving practical problems using TypeScript concepts 
 
 The main goal is to understand and apply TypeScript fundamentals, primitive types, type and interface, generics, and Object-Oriented Programming (OOP).
 
-### Project Files
+### Files
 
 - `solutions.ts` – Contains all 8 coding problem solutions in a single file.
 - `type-vs-interface.md` – Explains the differences between Type and Interface in TypeScript.
